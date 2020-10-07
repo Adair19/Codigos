@@ -8,4 +8,5 @@ void main() {
 
   int sexo = 1; // 1 = masculino, 2 = femenino
   print(1 == sexo ? 'Masculino' : 'Femenino');
+  print('Ups algo salio mal');
 }
